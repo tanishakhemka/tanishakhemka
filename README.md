@@ -26,9 +26,5 @@ Git • GitHub • Docker • Google Cloud • Tableau • Figma • VS Code •
 ---
 
 📫 **Let’s Connect:**  
-[LinkedIn](https://www.linkedin.com/in/tanishakhemka/) 
+[LinkedIn](https://www.linkedin.com/in/tanishakhemka/)       
 [Email](mailto:tanishakhemka@example.com)
-
-<!-- Visitors Badge -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tanishakhemka.tanishakhemka)
-
