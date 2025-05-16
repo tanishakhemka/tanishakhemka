@@ -18,10 +18,31 @@
 ![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### 📚 Frameworks & Libraries  
-TensorFlow • PyTorch • Scikit-learn • React • Next.js • Node.js • Pandas • NumPy • Matplotlib • Flask
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+
+### ☁️ Cloud & Databases  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+### 🧠 AI/ML & Data Science 
+![Regression](https://img.shields.io/badge/Regression-6A5ACD?style=flat)
+![A/B Testing](https://img.shields.io/badge/A/B_Testing-FF8C00?style=flat)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-8A2BE2?style=flat)
+![Time Series](https://img.shields.io/badge/Time_Series-20B2AA?style=flat)
+![Decision Tree](https://img.shields.io/badge/Decision_Tree-9ACD32?style=flat)
+![Transformer](https://img.shields.io/badge/Transformer-DC143C?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-191970?style=flat)
 
 ### 🔧 Tools & Platforms  
-Git • GitHub • Docker • Google Cloud • Tableau • Figma • VS Code • Weights & Biases • Jupyter • Trello
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
