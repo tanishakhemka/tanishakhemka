@@ -48,4 +48,4 @@
 
 # 📫 **Let’s Connect:**  
 [LinkedIn](https://www.linkedin.com/in/tanishakhemka/)       
-[Email](mailto:tanishakhemka@example.com)
+[Email](mailto:tanishakhemka@gmail.com)
