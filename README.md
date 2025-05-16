@@ -46,6 +46,6 @@
 
 ---
 
-📫 **Let’s Connect:**  
+# 📫 **Let’s Connect:**  
 [LinkedIn](https://www.linkedin.com/in/tanishakhemka/)       
 [Email](mailto:tanishakhemka@example.com)
