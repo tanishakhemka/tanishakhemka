@@ -2,7 +2,7 @@
 
 🎓 Graduate Student in Information Systems Management (MISM-BIDA) @ Carnegie Mellon University  
 🧠 Passionate about AI, data science, and building intelligent, impactful solutions  
-💼 Former Data Analyst | Incoming AI Intern @ Automus Consulting  
+💼 Former Data Analyst | AI Intern @ Automus Consulting  
 🎨 Creative technologist who loves combining design and ML — especially for accessibility and digital restoration  
 🌍 Always exploring new ways to use tech for social good and real-world problem-solving
 
